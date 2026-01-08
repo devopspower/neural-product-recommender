@@ -1,6 +1,6 @@
 # Neural Product Recommendation Engine (NCF)
 
-An end-to-end deep learning recommendation system built with **PyTorch** using the **Neural Collaborative Filtering (NCF)** architecture. This project transforms sparse Amazon Product Review [Kaggle data]([URL](https://www.kaggle.com/datasets/yasserh/amazon-product-reviews-dataset)) into a high-dimensional latent space to predict personalized user-product interactions.
+An end-to-end deep learning recommendation system built with **PyTorch** using the **Neural Collaborative Filtering (NCF)** architecture. This project transforms sparse Amazon Product Review [Kaggle data](https://www.kaggle.com/datasets/yasserh/amazon-product-reviews-dataset) into a high-dimensional latent space to predict personalized user-product interactions.
 
 ## 📊 Project Performance
 
@@ -89,4 +89,5 @@ streamlit run app.py
 
 - **Ecosystem Synergy:** The model successfully groups users within the Amazon ecosystem (e.g., suggesting Fire TV accessories to Kindle users).
 - **Increased AOV:** By surfacing high-confidence "Top Picks" (4.8+ scores), the engine drives higher conversion rates and Average Order Value.
+
 
